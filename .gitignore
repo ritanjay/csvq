@@ -1,0 +1,10 @@
+build*/
+out/
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.user
+CMakeUserPresets.json
+compile_commands.json
+big.csv
